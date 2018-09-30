@@ -8,8 +8,8 @@ sub_state_day1.R  Subsetting and transfomed df for day 1 per state
 sub_state_day1.R  Subsetting and transfomed df for day 1 per state  
   
 ### CSV files  
-df_day1_XX    df with only the transformed answers for day1 per state, XX acronym of state name   
-df_day2_XX    df with only the transformed answers for day1 per state, XX acronym of state name  
+df_day1_XX.csv    df with only the transformed answers for day1 per state, XX acronym of state name   
+df_day2_XX.csv    df with only the transformed answers for day1 per state, XX acronym of state name  
 
 
 
